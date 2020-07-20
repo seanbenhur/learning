@@ -8,10 +8,10 @@
 **Learning Philosophy**: [Master Adjacent Disciplines](http://www.effectiveengineer.com/blog/master-adjacent-disciplines), [The Power of Tiny Gains](https://jamesclear.com/continuous-improvement), [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills)
 
 ### Develop a business acumen
-- [X] [Book: Delivering Happiness: A Path to Profits, Passion, and Purpose](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220)
-- [X] [Book: Good to Great: Why Some Companies Make the Leap...And Others Don't ](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
-- [X] [Book: Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams](https://www.amazon.com/Hello-Startup-Programmers-Building-Technologies/dp/1491909900)
-- [X] [Book: How Google Works](https://www.howgoogleworks.net)
+- [ ] [Book: Delivering Happiness: A Path to Profits, Passion, and Purpose](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220)
+- [ ] [Book: Good to Great: Why Some Companies Make the Leap...And Others Don't ](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
+- [ ] [Book: Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams](https://www.amazon.com/Hello-Startup-Programmers-Building-Technologies/dp/1491909900)
+- [ ] [Book: How Google Works](https://www.howgoogleworks.net)
 - [ ] [Book: Learn to Earn: A Beginner's Guide to the Basics of Investing and Business](https://www.goodreads.com/book/show/817589.Learn_to_Earn)
 - [ ] [Book: Rework](https://www.goodreads.com/book/show/6732019-rework)
 - [ ] [Book: The Airbnb Story](https://www.amazon.com/Airbnb-Story-Ordinary-Disrupted-Controversy/dp/0544952669)
@@ -34,7 +34,7 @@
 - [ ] [Book: AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X)
 - [ ] [Book: A Human's Guide to Machine Intelligence](https://www.amazon.com/Humans-Guide-Machine-Intelligence-Algorithms/dp/0525560882)
 - [ ] [Book: The Future Computed](https://news.microsoft.com/uploads/2018/01/The-Future-Computed.pdf)
-- [ ] [Book: Machine Learning Yearning by Andrew Ng](http://www.mlyearning.org/)
+- [X] [Book: Machine Learning Yearning by Andrew Ng](http://www.mlyearning.org/)
 - [ ] [Book: Prediction Machines: The Simple Economics of Artificial Intelligence](https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670)
 - [ ] [Coursera: AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)
 - [ ] [Datacamp: Case Studies in Statistical Thinking](https://www.datacamp.com/courses/case-studies-in-statistical-thinking)
