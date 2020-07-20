@@ -447,7 +447,7 @@
 - [ ] [edX: Amazon SageMaker: Simplifying Machine Learning Application Development](https://www.edx.org/course/simplifying-machine-learning-app-development-with-amazon-sagemaker)
 
 ### Be able to optimize model performance
-- [ ] [Coursera: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
+- [X] [Coursera: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
 - [ ] [Datacamp: Model Validation in Python](https://www.datacamp.com/courses/model-validation-in-python)
 - [ ] [Datacamp: Hyperparameter Tuning in Python](https://www.datacamp.com/courses/hyperparameter-tuning-in-python)
 - [ ] [Google: Testing and Debugging](https://developers.google.com/machine-learning/testing-debugging)
